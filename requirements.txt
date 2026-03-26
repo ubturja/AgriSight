@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+ultralytics
+opencv-python
+python-telegram-bot
+streamlit
+python-dotenv
+httpx
+python-dotenv
+python-telegram-bot
